@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Cordova FileChooser Plugin",
   "cordova": {
-    "id": "com.megster.cordova.FileChooser",
+    "id": "cordova-plugin-file-chooser",
     "platforms": [
       "android"
     ]
